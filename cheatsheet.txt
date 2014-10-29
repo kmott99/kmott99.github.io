@@ -1,0 +1,27 @@
+COMMANDS:
+
+1. to start jekyll sever:
+
+jekyll serve --watch --host $IP --port $PORT
+
+2. to stop the server:
+
+ctrl c
+
+
+// git commands
+git add -A
+git commit -m "* my example commit message"
+git push
+
+git status
+
+// tutorials:
+
+1. https://github.com/themooserooster/getting-started-with-jekyll
+2. https://github.com/themooserooster/custom-jekyll-layouts-part1
+
+// jekyll documentation:
+
+http://jekyllrb.com/
+
